@@ -11,7 +11,7 @@ A full-stack ToDo List application with a Node.js backend and Vue.js frontend.
   - [Frontend](#frontend)
 - [Version Control](#version-control)
 - [Design Patterns](#design-patterns)
-
+- [Deployment](#deployment)
 
 ## Features
 
@@ -36,8 +36,6 @@ A full-stack ToDo List application with a Node.js backend and Vue.js frontend.
 - Vue.js with TypeScript
 - Tailwind CSS
 - Axios
-
-
 
 ## Setup
 
@@ -95,3 +93,14 @@ The frontend will run on [http://localhost:8080](http://localhost:8080).
 
 - The application follows Clean Architecture and utilizes the Observer and Repository patterns.
 
+## Deployment
+
+The backend is deployed to **Render**, and the frontend is deployed to **Netlify**. You can interact with the project live without installing it locally.
+
+- **Backend (Render)**: The Node.js backend is hosted on Render, handling the API requests for the tasks.
+- **Frontend (Netlify)**: The Vue.js frontend is hosted on Netlify, providing the user interface to interact with the ToDo List.
+
+To view the live project, visit the following URLs:
+
+- Frontend: [Frontend Link](https://vue-todo-frontend.netlify.app/)  
+- Backend: [Backend Link](https://todo-deploy-backend.onrender.com/)
