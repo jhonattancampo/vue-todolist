@@ -1,0 +1,29 @@
+.DS_Store
+
+# Node modules
+/todo-backend/node_modules
+/todo-frontend/node_modules
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+/todo-backend/dist
+/todo-frontend/dist
+
+# Environment variables
+/todo-backend/.env
+/todo-frontend/.env
+
+# IDEs and editors
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
