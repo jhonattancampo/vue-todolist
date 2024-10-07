@@ -104,3 +104,4 @@ To view the live project, visit the following URLs:
 
 - Frontend: [Frontend Link](https://vue-todo-frontend.netlify.app/)  
 - Backend: [Backend Link](https://todo-deploy-backend.onrender.com/)
+**Take into account that the backend is a free instance, and will spin down with inactivity, which can delay requests by 50 seconds or more.** :rofl:
